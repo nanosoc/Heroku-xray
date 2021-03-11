@@ -1,7 +1,4 @@
 proxies:
-  - {name: heroku, server: 104.18.18.190, port: 443, type: vmess, uuid: 4063bcba-0bce-11eb-af12-69b84883fcd8, alterId: 16, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /l58T6Ohi/, ws-headers: {Host: twilight-sunset-1494.6202.workers.dev}}
-  - {name: heroku, server: 104.18.18.190, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: wispy-hall-679b.6202.workers.dev}}
-  - {name: heroku, server: 104.18.18.190, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: tight-term-def7.6202.workers.dev}}
-  - {name: heroku, server: 104.18.18.190, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: wispy-snowflake-73e4.6202.workers.dev}}
-  - {name: heroku, server: 104.18.18.190, port: 443, type: vmess, uuid: 8f91b6a0-e8ee-11ea-adc1-0242ac120002, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /vmesspath, ws-headers: {Host: plain-brook-1a68.6202.workers.dev}}
-  
+  - {name: heroku, server: 104.19.91.252, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: wispy-hall-679b.6202.workers.dev}}
+  - {name: heroku, server: 104.19.4.94, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: tight-term-def7.6202.workers.dev}}
+  - {name: heroku, server: 104.19.19.188, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: wispy-snowflake-73e4.6202.workers.dev}}
