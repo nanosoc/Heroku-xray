@@ -1,4 +1,0 @@
-proxies:
-  - {name: heroku, server: 104.19.91.252, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: wispy-hall-679b.6202.workers.dev}}
-  - {name: heroku, server: 104.19.4.94, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: tight-term-def7.6202.workers.dev}}
-  - {name: heroku, server: 104.19.19.188, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: wispy-snowflake-73e4.6202.workers.dev}}
